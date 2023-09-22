@@ -1,1 +1,2 @@
 # auto-createdeth-abi==1.2.5
+web3==2.5.6
