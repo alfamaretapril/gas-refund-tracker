@@ -62,3 +62,4 @@
 # fix 3548
 # fix 2188
 # optimize 8910
+# optimize 1962
