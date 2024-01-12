@@ -81,3 +81,4 @@
 # fix 6797
 # fix 8443
 # refactor 8397
+# fix 1389
