@@ -41,3 +41,4 @@
 # fix 1197
 # fix 3731
 # optimize 5426
+# fix 2600
