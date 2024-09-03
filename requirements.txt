@@ -25,3 +25,4 @@ web3==0.6.9
 aiohttp==1.2.4
 web3==1.9.5
 eth-abi==1.0.5
+requests==1.5.6
