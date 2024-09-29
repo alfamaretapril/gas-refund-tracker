@@ -10,3 +10,4 @@
 # fix 8637
 # fix 5881
 # optimize 9221
+# optimize 5524
