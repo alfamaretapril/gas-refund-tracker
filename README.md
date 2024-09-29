@@ -33,3 +33,4 @@
 - Update note 7374
 - Update note 5999
 - Update note 4650
+- Update note 1300
