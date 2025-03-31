@@ -70,3 +70,4 @@
 - Update note 9060
 - Update note 9303
 - Update note 9478
+- Update note 6508
